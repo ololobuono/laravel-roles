@@ -25,7 +25,7 @@
         {
             "name": "Alessandro Lo Buono",
             "email": "lobuono@olomedia.it"
-        },
+        }
     ],
     "require": {
         "php": "^7.2",
