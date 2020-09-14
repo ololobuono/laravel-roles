@@ -60,7 +60,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "git@github.com:ololobuono/seedster.git"
+            "url": "git@github.com:marcellovetro/seedster.git"
         }
     ]
 }
